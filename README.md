@@ -30,6 +30,7 @@ Auto-synced using LeetCode to GitHub extension.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Prefix Sum
@@ -40,4 +41,12 @@ Auto-synced using LeetCode to GitHub extension.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
