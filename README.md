@@ -32,6 +32,7 @@ Auto-synced using LeetCode to GitHub extension.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0283-move-zeroes](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Prefix Sum
@@ -51,4 +52,8 @@ Auto-synced using LeetCode to GitHub extension.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
