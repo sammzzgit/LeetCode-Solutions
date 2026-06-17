@@ -13,6 +13,7 @@ Auto-synced using LeetCode to GitHub extension.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -33,6 +34,7 @@ Auto-synced using LeetCode to GitHub extension.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -50,6 +52,7 @@ Auto-synced using LeetCode to GitHub extension.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,9 +66,14 @@ Auto-synced using LeetCode to GitHub extension.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
