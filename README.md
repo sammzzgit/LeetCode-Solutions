@@ -33,6 +33,7 @@ Auto-synced using LeetCode to GitHub extension.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0189-rotate-array](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -57,9 +58,14 @@ Auto-synced using LeetCode to GitHub extension.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
