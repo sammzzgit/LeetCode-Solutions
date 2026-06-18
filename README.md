@@ -32,6 +32,7 @@ Auto-synced using LeetCode to GitHub extension.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -61,6 +62,7 @@ Auto-synced using LeetCode to GitHub extension.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0189-rotate-array](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
@@ -76,4 +78,8 @@ Auto-synced using LeetCode to GitHub extension.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
