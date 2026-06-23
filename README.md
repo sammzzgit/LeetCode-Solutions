@@ -33,6 +33,7 @@ Auto-synced using LeetCode to GitHub extension.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0048-rotate-image](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -73,6 +74,7 @@ Auto-synced using LeetCode to GitHub extension.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -82,4 +84,8 @@ Auto-synced using LeetCode to GitHub extension.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
