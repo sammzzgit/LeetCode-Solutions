@@ -23,6 +23,7 @@ Auto-synced using LeetCode to GitHub extension.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0709-to-lower-case](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
