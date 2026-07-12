@@ -22,6 +22,7 @@ Auto-synced using LeetCode to GitHub extension.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0709-to-lower-case](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 ## Sliding Window
@@ -94,4 +95,8 @@ Auto-synced using LeetCode to GitHub extension.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
