@@ -25,6 +25,7 @@ Auto-synced using LeetCode to GitHub extension.
 | [0020-valid-parentheses](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0709-to-lower-case](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +100,5 @@ Auto-synced using LeetCode to GitHub extension.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sammzzgit/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
